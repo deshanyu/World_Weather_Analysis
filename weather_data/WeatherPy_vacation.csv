@@ -1,0 +1,79 @@
+City_ID,City,Country,Current Description,Max Temp,Lat,Lng,Hotel Name
+18,Hobart,AU,light intensity shower rain,53.6,-42.88,147.33,St Ives Apartments
+28,Ko Samui,TH,moderate rain,83.46,9.54,99.94,"The Passage Samui Villas & Resort, Thailand"
+33,Shimoda,JP,heavy intensity rain,63.0,34.67,138.95,Shimoda Tokyu Hotel
+39,Hamilton,US,light rain,75.0,39.18,-84.53,Six Acres Bed & Breakfast
+49,Hirara,JP,light rain,83.64,24.8,125.28,Hotel Atoll Emerald Miyakojima
+57,Albany,US,light rain,91.99,42.6,-73.97,
+66,Alad,PH,light rain,83.82,12.62,122.25,Sunset Cove Beach & Dive Resort
+68,Birao,CF,moderate rain,77.02,10.28,22.79,
+69,Bonthe,SL,light rain,79.5,7.53,-12.51,Bonthe Holiday Village
+72,Amapa,BR,moderate rain,76.78,1.0,-52.0,
+83,New Norfolk,AU,light rain,53.01,-42.78,147.06,The Shingles Riverside Cottages
+104,Victor Harbor,AU,light rain,52.0,-35.57,138.62,Apollon Motor Inn
+108,Monte Escobedo,MX,light rain,76.01,22.3,-103.58,
+110,Pindobacu,BR,light rain,73.58,-10.74,-40.36,Hotel Valmont
+113,Porto Novo,BJ,heavy intensity rain,78.8,6.5,2.6,Tour Eiffel Hotel Benin
+121,Fairbanks,US,light rain,53.6,64.84,-147.72,Westmark Fairbanks Hotel & Conference Center
+123,Buchanan,LR,light rain,77.49,5.88,-10.05,Kamaneahn Hotel Inc
+130,Ferkessedougou,CI,light rain,81.37,9.6,-5.2,Hotel Chateau
+133,Tezu,IN,light rain,75.96,27.92,96.17,Circuit House
+152,Raudeberg,NO,light rain,57.99,61.99,5.14,Nordre Silda.
+156,Bonanza,NI,moderate rain,80.13,14.03,-84.59,Edificio Administrativo HEMCO
+163,Norman Wells,CA,light rain,53.6,65.28,-126.83,Heritage Hotel
+170,Pevek,RU,light rain,45.28,69.7,170.31,Severnoye Zoloto
+174,Mitu,CO,light rain,81.79,1.2,-70.17,
+178,Galle,LK,light rain,81.61,6.04,80.22,CocoBay Unawatuna
+184,Bairiki,KI,shower rain,82.4,1.33,172.98,Tarawa Boutique Hotel
+188,Zarubino,RU,moderate rain,60.31,42.63,131.09,"Okean, Baza Otdykha"
+190,Victoria,HK,light rain,86.0,22.29,114.16,Mini Hotel Central
+197,Vorokhta,UA,light rain,56.21,48.29,24.57,Oksamyt
+205,Padang,ID,light rain,77.31,-0.95,100.35,Mercure Padang
+207,Saint-Michel-Des-Saints,CA,light rain,87.01,46.68,-73.92,Motel Du Mont trinity
+208,Mahebourg,MU,shower rain,69.8,-20.41,57.7,Shandrani Beachcomber Resort & Spa
+220,Jos,NG,light rain,68.47,9.92,8.9,Silk Suites
+225,Kavaratti,IN,moderate rain,83.57,10.57,72.64,Bismillah Hotel And Lodging
+226,Salinopolis,BR,light rain,79.48,-0.61,-47.36,Hotel Salinópolis
+240,Hvide Sande,DK,light rain,64.4,56.0,8.13,Hvide Sande Hotel
+242,Murray Bridge,AU,light rain,51.01,-35.12,139.27,Balcony On Sixth Lodge
+255,Carutapera,BR,light rain,77.36,-1.2,-46.02,Lidera
+268,College,US,light rain,53.6,64.86,-147.8,Pike's Waterfront Lodge
+275,Tonantins,BR,light rain,83.68,-2.87,-67.8,Hotel Rei Davi
+277,Blairmore,CA,shower rain,69.8,49.6,-114.44,Highwood Motel
+278,Mirzapur,IN,light rain,82.11,25.15,82.58,Hotel Yash Inn
+279,Nilai,MY,moderate rain,75.2,2.82,101.8,New Wave Hotel Nilai 1/19
+290,Sola,VU,light rain,81.09,-13.88,167.55,Leumerus Bungalows
+315,San Cristobal,VE,moderate rain,86.0,7.77,-72.22,Pirineos
+334,Jiancheng,CN,light intensity shower rain,75.99,30.39,104.55,Jianyang Celebrity City Hotel
+340,Zatyshshya,UA,moderate rain,66.76,47.33,29.87,
+342,Asau,RO,light rain,60.01,46.43,26.4,Casa Mika Ciobanus
+361,Bengkulu,ID,light rain,76.37,-3.8,102.27,Grage Hotel Bengkulu
+366,Hofn,IS,moderate rain,50.83,64.25,-15.21,Hótel Höfn
+367,Juneau,US,light rain,55.0,58.3,-134.42,"Baranof Downtown, BW Signature Collection"
+379,Melong,CM,light rain,67.77,5.12,9.96,Washinton City Mordern Bar And Motel
+395,Shingu,JP,moderate rain,65.66,33.73,135.98,Shingu UI Hotel
+410,Zgierz,PL,light rain,64.99,51.86,19.41,"Restauracja & Pokoje Hotelowe & Pizza ""Route One"""
+415,Gondar,ET,light rain,61.29,12.6,37.47,L Shape Hotel
+416,Meulaboh,ID,heavy intensity rain,74.43,4.14,96.13,Kost Pria
+418,Moa,CU,moderate rain,84.29,20.66,-74.94,Renta en Divisa
+426,Solnechnyy,RU,light rain,45.82,50.72,136.63,Hotel complex Pastoral
+437,Sabang,ID,moderate rain,78.8,5.89,95.32,Hotel Citra
+441,Ulaangom,MN,light rain,45.9,49.98,92.07,Achit Nuur Hotel & Restaurant
+444,Kamenka,RU,light rain,64.99,51.32,42.77,
+449,Barpeta,IN,light rain,80.47,26.32,91.0,MJ GUEST HOUSE
+455,Ustupo,PA,light rain,84.65,9.13,-77.93,
+467,Markova,UA,light rain,59.67,48.68,24.41,Kempinh
+474,Dwarka,IN,moderate rain,86.13,22.24,68.97,Hotel Narayan Avezika Comfort
+476,Zhicheng,CN,moderate rain,69.01,30.3,111.5,Wangjiang Building
+479,Ambon,ID,light rain,80.01,-3.7,128.18,Swiss-Belhotel Ambon
+484,Chornoliztsi,UA,light rain,66.99,48.83,24.9,YOLYAAAA
+486,Biu,NG,light rain,70.86,10.61,12.19,EYN LCC MANDARAGIRAU
+491,Yaan,NG,light rain,74.12,7.38,8.57,
+493,Pasighat,IN,light rain,76.5,28.07,95.33,Siang Guest House
+496,Baruun-Urt,MN,light rain,58.03,46.68,113.28,Ахмадын амралт сувилал
+508,Babanka,UA,light rain,66.58,48.71,30.45,
+526,The Pas,CA,light rain,59.0,53.83,-101.25,Wescana Inn
+532,Rapid Valley,US,light rain,77.0,44.06,-103.15,Fairfield Inn & Suites by Marriott Rapid City
+538,Champerico,GT,light rain,85.98,14.3,-91.92,"Hotel y restaurante ""El Diamante"""
+540,Corn Island,NI,moderate rain,80.89,12.17,-83.04,Big Fish Guest House
+544,Zacualtipan,MX,light rain,70.36,20.65,-98.6,hacienda venta de guadalupe
